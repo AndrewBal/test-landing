@@ -1,0 +1,22 @@
+.header {
+  width: 100%;
+  height: 54px;
+  background: #4B5464;
+}
+
+.header-contacts {
+  display: flex;
+}
+ .header-contacts_phone, .header-contacts_mail {
+  display: flex;
+    .phone-p,
+    .mail-p {
+      font-family: Open Sans;
+      font-style: normal;
+      font-weight: 300;
+      font-size: 14px;
+      line-height: 151.68%;
+      color: #FFFFFF;
+    }
+}
+
